@@ -3,7 +3,7 @@
 - Meu nome é Mayara, mas todos me chamam de Maya
 - Atualmente, como ingressante em programação, sou estudante Front-end pelo SENAI
 - A parte mais empolgante de iniciar no mundo da tecnologia é aprender algo novo todos os dias :)
-- Você pode falar comigo nas seguintes plataformas: <a href="https://t.me/cmayara" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href = "mailto:mayaraa_costaa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+- Você pode falar comigo nas seguintes plataformas: <a href="https://t.me/cmayara" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href = "mailto:mayaraa_costaa@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"> <a href= "https://www.linkedin.com/in/c-myr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a> 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=c-myr&show_icons=true&theme=merko"> 
   
